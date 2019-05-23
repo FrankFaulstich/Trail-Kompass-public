@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" creator="QMapShack 1.12.3 http://www.qlandkarte.org/" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+ <metadata>
+  <name>POIs</name>
+  <time>2018-06-10T13:07:30.000Z</time>
+ </metadata>
+ <wpt lat="49.21608333" lon="12.80650000">
+  <ele>740</ele>
+  <time>2018-06-10T13:06:36.122Z</time>
+  <name>Haidstein</name>
+  <desc>Haidstein (742)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>367c427b78ac40b7282bf4d2bf4be0de</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-92" xoff="-209" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-06-10T13:06:36.123Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-10T13:06:36.134Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.23741667" lon="12.87763333">
+  <time>2018-06-10T13:09:53.067Z</time>
+  <name>Burgruine Lichteneck</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>cdb54bca901ddffa19038ea68faaa8bd</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.20241667" lon="12.82453333">
+  <time>2018-06-10T13:10:59.396Z</time>
+  <name>Wolframslinde</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>4b83f0ea3d04d4e3a0ea5469e9e023a9</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.21470000" lon="12.76446667">
+  <ele>484</ele>
+  <time>2018-06-10T13:12:15.077Z</time>
+  <name>Kirche St. Andreas</name>
+  <desc>St. Andreas (Kirche, Anbetungsort)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>2315f3387f953c5267adccbfb072ba59</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-06-10T13:12:15.077Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-10T13:12:15.082Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.21838333" lon="12.76151667">
+  <time>2018-06-10T13:13:31.317Z</time>
+  <name>Burgruine Runding</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>643b55438815834ad5d9fd79081c62cf</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.23505000" lon="12.93395000">
+  <time>2018-06-10T13:16:24.911Z</time>
+  <name>Aussichtsturm auf dem Hohenbogen</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>65ff96f5742ec935ed9dc29cba1555a1</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.16606667" lon="12.86205000">
+  <ele>502</ele>
+  <time>2018-06-10T13:22:22.098Z</time>
+  <name>Freilichtbühne Ludwigsberg</name>
+  <desc>Freilichtbühne Ludwigsberg (Kino)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>4f59942c8016f685eac6a03c669e1831</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-06-10T13:22:22.098Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-10T13:22:22.103Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.14513333" lon="12.87811667">
+  <time>2018-06-10T13:24:00.854Z</time>
+  <name>Geodätisches Observatorium Wettzell</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>4194c94082cb0713e86767f5f76daa3e</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.12826667" lon="12.86430000">
+  <time>2018-06-10T13:25:05.829Z</time>
+  <name>Kraftwerk Höllensteinsee</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>e139c618f17b3f774149163748acaf60</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.32675000" lon="12.86890000">
+  <ele>637</ele>
+  <time>2018-06-10T13:26:27.990Z</time>
+  <name>Aussichtsturm Bayernwarte</name>
+  <desc>Aussichtsturm Bayernwarte</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>3a17a4e76e010786c039309cd807e169</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-06-10T13:26:27.990Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-10T13:26:27.994Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.31746667" lon="12.86730000">
+  <time>2018-06-10T13:27:05.287Z</time>
+  <name>Drachensee</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>df9c74439e55363637f412c432026076</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.31266667" lon="12.85968333">
+  <ele>399</ele>
+  <time>2018-06-10T13:29:59.049Z</time>
+  <name>Wildgarten</name>
+  <desc>Wildgarten/Unterwasserbeobachtungsstation (Garten)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>b4dca1e4110d3558ad5bc35885384b53</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-06-10T13:29:59.049Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-10T13:29:59.054Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.17070000" lon="12.85610000">
+  <ele>404</ele>
+  <time>2018-06-13T18:40:52.778Z</time>
+  <name>Lindner-Bräu</name>
+  <cmt>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Lindner-Bräu Brauereigaststätte (Restaurant)&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Öffnungszeiten:&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Montag &lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Dienstag &lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Mittwoch &lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Donnerstag &lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Freitag &lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Samstag &lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Sonntag Geschlossen&lt;/p>&lt;/div></cmt>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Lindner-Bräu Brauereigaststätte (Restaurant)&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Öffnungszeiten:&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Montag	&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Dienstag	&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Mittwoch	&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Donnerstag	&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Freitag	&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Samstag	&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">09:30–23:00&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Sonntag	Geschlossen&lt;/p>&lt;/div></desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>2130bfddb0076510b16667a0076fbb27</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-06-13T18:40:52.779Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-13T18:40:52.783Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-13T18:47:34.543Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/waypoints/32x32/DiamondBlue.png</ql:icon>
+     <ql:time>2018-06-13T18:49:32.718Z</ql:time>
+     <ql:comment>Symbol geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-13T19:41:01.458Z</ql:time>
+     <ql:comment>Kommentar geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.21568333" lon="12.80843333">
+  <ele>721</ele>
+  <time>2018-06-15T20:38:46.526Z</time>
+  <name>Haidsteiner Hütte</name>
+  <desc>Haidsteiner Hütte (Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>2199a8b0c8bf202b0dd4a78a431f38dd</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-06-15T20:38:46.527Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-06-15T20:38:46.529Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.33351667" lon="12.77453333">
+  <time>2018-06-22T16:29:07.185Z</time>
+  <name>Berggasthof Gibacht</name>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>3c1b8bf6938ddf009c92fde36ce22964</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.31425000" lon="12.71336667">
+  <ele>766</ele>
+  <time>2018-08-04T16:55:49.965Z</time>
+  <name>Arberblick</name>
+  <desc>Arberblick (760)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>c3b61f79cd0d0e861f4ba448f20ae6f7</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T16:55:49.965Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T16:55:49.968Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.20323333" lon="13.10970000">
+  <time>2018-08-04T16:58:52.673Z</time>
+  <name>Großer Osser</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>a1d01bf02b813eac0f5eb30a56035be9</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.20278333" lon="13.10638333">
+  <ele>1220</ele>
+  <time>2018-08-04T16:59:40.440Z</time>
+  <name>Künische Kapelle</name>
+  <desc>Künische Kapelle (Kirche, Anbetungsort)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>3a6115caecf8e1888d4eb06c86b15319</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T16:59:40.441Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T16:59:40.444Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.42113333" lon="12.75271667">
+  <time>2018-08-04T17:01:41.146Z</time>
+  <name>Heinrichsberg</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>137c22d21a30ed3032521e14463f84f4</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.35528333" lon="12.80611667">
+  <ele>548</ele>
+  <time>2018-08-04T17:05:19.244Z</time>
+  <name>Fichtenbach</name>
+  <desc>Bystrice</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>e551a2a0c0c4a32a42b64535fa51a050</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T17:05:19.245Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T17:05:19.248Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.38335000" lon="12.78376667">
+  <ele>1032</ele>
+  <time>2018-08-04T17:12:04.968Z</time>
+  <name>Cerchov-Gipfel</name>
+  <desc>Cerchov (1042)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>46063fe2d2aa87e24b13c5855a1937eb</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T17:12:04.968Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T17:12:04.971Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.41215000" lon="12.80433333">
+  <ele>704</ele>
+  <time>2018-08-04T17:13:58.418Z</time>
+  <name>Denkmal für Jindrich Simon Baar</name>
+  <desc>Pomník J. Š. Baara (Denkmal)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>d98164063452b32868cc14f6aa629461</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T17:13:58.418Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T17:13:58.423Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.34541667" lon="12.78573333">
+  <ele>909</ele>
+  <time>2018-08-04T17:19:49.806Z</time>
+  <name>Dreiwappenfelsen</name>
+  <desc>Grenzmarkierung von 1766 mit drei Wappen (Attraktion)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>b197406919bcc006302728f1324b4311</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T17:19:49.807Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T17:19:49.812Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.39836667" lon="12.83061667">
+  <ele>513</ele>
+  <time>2018-08-04T17:21:22.047Z</time>
+  <name>Kapelle des hl. Prokop in Pec</name>
+  <desc>Kirche, Anbetungsort</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>b26c350c68d9314a3a30fbad2ad6620d</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T17:21:22.048Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T17:21:22.051Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.31808333" lon="12.70803333">
+  <ele>742</ele>
+  <time>2018-08-04T17:26:16.345Z</time>
+  <name>Kathlfelsen</name>
+  <desc>Kathlfelsen (752)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>03df76e7915a2d85909586143d68f546</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-04T17:26:16.345Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T17:26:16.349Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-04T17:26:22.699Z</ql:time>
+     <ql:comment>Name geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.17398333" lon="12.94320000">
+  <ele>1018</ele>
+  <time>2018-08-10T19:00:12.903Z</time>
+  <name>Kötztinger Hütte</name>
+  <desc>Kötztinger Hütte (Bayrisch)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>5e303e51c65bc6db7e597f64c713d345</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-10T19:00:12.903Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-10T19:00:12.909Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/waypoints/32x32/DiamondBlue.png</ql:icon>
+     <ql:time>2018-08-10T19:01:03.209Z</ql:time>
+     <ql:comment>Symbol geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.32758333" lon="12.78790000">
+  <ele>884</ele>
+  <time>2018-08-30T18:41:34.436Z</time>
+  <name>Reiseck</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Aussichtspunkt&lt;/p>&lt;/div></desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>861b46d880b8883c2146d686804f073b</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T18:41:34.436Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T18:41:53.929Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/waypoints/32x32/DiamondGreen.png</ql:icon>
+     <ql:time>2018-08-30T18:41:59.035Z</ql:time>
+     <ql:comment>Symbol geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.12633333" lon="13.11943333">
+  <ele>920</ele>
+  <time>2018-08-30T18:53:48.899Z</time>
+  <name>Kleiner Arbersee</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Kleiner Arbersee&lt;/p>&lt;/div></desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>2129852abb4da7f6c7a3a66ebf750f7f</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T18:53:48.899Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T18:53:48.902Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T18:54:00.961Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.19858333" lon="13.07840000">
+  <ele>669</ele>
+  <time>2018-08-30T18:55:40.010Z</time>
+  <name>Bergwerk Fürstenzeche </name>
+  <desc>Bergwerk Fürstenzeche (Museum)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>8913a4e2b8aa5eccda8db7feeeceaaad</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T18:55:40.011Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T18:55:40.018Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.27391667" lon="12.54550000">
+  <ele>574</ele>
+  <time>2018-08-30T18:59:01.851Z</time>
+  <name>Kürnburg</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Kürnburg (Burgruine)&lt;/p>&lt;/div></desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>5aefde0450aa3b4eb929463105b6bbd5</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T18:59:01.851Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T18:59:01.853Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T18:59:25.263Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.32640000" lon="12.68281667">
+  <ele>505</ele>
+  <time>2018-08-30T19:03:27.991Z</time>
+  <name>Kirche St. Bartholomäus</name>
+  <desc>Kirche, Anbetungsort</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>cdc758a6e84226b436b7f0bc3c36c131</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:03:27.991Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:03:27.993Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.33153333" lon="12.77985000">
+  <ele>897</ele>
+  <time>2018-08-30T19:09:01.462Z</time>
+  <name>Tannenriegel, Leuchtturm der Menschlichkeit</name>
+  <desc>Leuchtturm der Menschlichkeit (Attraktion)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>168eeb23543c29bdbae840e9c8eb7765</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:09:01.463Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:09:01.465Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:09:27.597Z</ql:time>
+     <ql:comment>Name geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:09:45.287Z</ql:time>
+     <ql:comment>Name geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.32341667" lon="12.75621667">
+  <ele>611</ele>
+  <time>2018-08-30T19:14:53.690Z</time>
+  <name>Burgstall</name>
+  <desc>Burgstall (Hist. Wegkreuz)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>91ebf516941c2f3e19e8ad048fb17c0b</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:14:53.699Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:14:53.762Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.32753333" lon="12.80743333">
+  <ele>643</ele>
+  <time>2018-08-30T19:16:47.673Z</time>
+  <name>Schloss Voithenberg</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Schloss Voithenberg (Burg, Schloss)&lt;/p>&lt;/div></desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>b2a865a75b6069ede1ec73ccfeb1ad0d</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:16:47.674Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:16:47.677Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:17:09.019Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.32693333" lon="12.80711667">
+  <ele>642</ele>
+  <time>2018-08-30T19:19:31.800Z</time>
+  <name>Schlosswirtschaft Voithenberg (Restaurant)</name>
+  <desc>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Schlosswirtschaft Voithenberg (Restaurant)&lt;/p>&lt;/div></desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>44f80e788302b009206e8a3cc628faa8</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:19:31.800Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:19:31.802Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:19:44.349Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.20881667" lon="13.06276667">
+  <ele>828</ele>
+  <time>2018-08-30T19:24:34.137Z</time>
+  <name>Gaststätte Maria Hilf</name>
+  <desc>Maria Hilf (Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>6ebcdcc843662e42cf092fc7ac8b215a</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:24:34.137Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:24:34.139Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.20890000" lon="13.06240000">
+  <ele>824</ele>
+  <time>2018-08-30T19:26:36.767Z</time>
+  <name>Wallfahrtskirche Maria Hilf</name>
+  <desc>Maria Hilf (Kirche, Anbetungsort)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>8808b47c351145741bc41793e9144208</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:26:36.768Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:26:36.770Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.20410000" lon="13.09898333">
+  <ele>1163</ele>
+  <time>2018-08-30T19:32:11.575Z</time>
+  <name>Osserwiese</name>
+  <desc>Osserwiese (Wiese)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>8a155b9fd5ab046f35115f1170fef3eb</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:32:11.575Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:32:11.578Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.34025000" lon="12.68343333">
+  <ele>674</ele>
+  <time>2018-08-30T19:35:13.693Z</time>
+  <name>Zwirenzel</name>
+  <desc>Zwirenzel</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>5b84929c7b1b312677af1d48b0a55286</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:35:13.693Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:35:13.696Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.30953333" lon="12.84166667">
+  <ele>405</ele>
+  <time>2018-08-30T19:43:53.274Z</time>
+  <name>Eisdiele Venezia</name>
+  <desc>Venezia (Eiscafé)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>72a87f3f3cc415d8b7d9abc181826027</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:43:53.275Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:43:53.277Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/waypoints/32x32/DiamondBlue.png</ql:icon>
+     <ql:time>2018-08-30T19:47:06.016Z</ql:time>
+     <ql:comment>Symbol geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.20338333" lon="13.10975000">
+  <ele>1264</ele>
+  <time>2018-08-30T19:46:04.248Z</time>
+  <name>Osserschutzhaus</name>
+  <desc>Willmann Haus (Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>bc5fd82a34cff04bf7e4987d477b4fdc</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:46:04.250Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:46:04.252Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/waypoints/32x32/DiamondBlue.png</ql:icon>
+     <ql:time>2018-08-30T19:47:19.444Z</ql:time>
+     <ql:comment>Symbol geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.17225000" lon="13.03356667">
+  <ele>794</ele>
+  <time>2018-08-30T19:50:24.393Z</time>
+  <name>Brotzeitstüberl zum Ödbauern</name>
+  <desc>Zum Ödbauern (regional, Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>37399bef0297059ff884ebf118246a16</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:50:24.394Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:50:24.396Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.17028333" lon="13.04091667">
+  <ele>779</ele>
+  <time>2018-08-30T19:54:23.771Z</time>
+  <name>Raststätte zum Veitbauernhof</name>
+  <desc>Veitbauernhof (Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>954ce9472ce339090f2eb53820e04da8</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T19:54:23.772Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T19:54:23.775Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.16955000" lon="13.05346667">
+  <ele>791</ele>
+  <time>2018-08-30T20:00:12.220Z</time>
+  <name>Einoedhof Waldeck</name>
+  <desc>Einoedhof Waldeck (regional, Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>da687aaabd91295ee172703194fcc99d</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-08-30T20:00:12.221Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-08-30T20:00:12.223Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.15270000" lon="12.93258333">
+  <ele>503</ele>
+  <time>2018-09-22T10:03:44.210Z</time>
+  <name>Wallfahrtskirche St.Nikolaus</name>
+  <cmt>&lt;div>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Ziel des Bad Kötztinger Pfingstrittes&lt;/p>&lt;/div></cmt>
+  <desc>St.Nikolaus (Kirche, Anbetungsort)</desc>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>63955e346c525c8647a861959b331104</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-09-22T10:03:44.210Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-09-22T10:03:44.215Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-09-22T10:04:15.855Z</ql:time>
+     <ql:comment>Kommentar geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.39386667" lon="12.86943333">
+  <time>2018-11-03T16:41:14.240Z</time>
+  <name>Pastritz-Kanal</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>fbd50b7a621c17015b82956458b1b3a1</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.40421667" lon="12.86038333">
+  <time>2018-11-03T16:43:26.251Z</time>
+  <name>Historischen Freibad in Babylon</name>
+  <sym>Green Diamond</sym>
+  <extensions>
+   <ql:key>baca958cde5980db629f68a39e8a7849</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.27366667" lon="12.81508333">
+  <ele>394</ele>
+  <time>2018-11-03T16:46:43.663Z</time>
+  <name>Radl Café</name>
+  <desc>Radl Café (Café)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>c50ac692c1a0e51689e76306f1cd19fa</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T16:46:43.664Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T16:46:43.667Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T16:47:17.673Z</ql:time>
+     <ql:comment>Name geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.27191667" lon="12.81585000">
+  <ele>390</ele>
+  <time>2018-11-03T16:48:13.134Z</time>
+  <name>Brunner Hof</name>
+  <desc>Brunner Hof (Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>b669922b713117a13ea04c18f2f02916</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T16:48:13.134Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T16:48:13.137Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.21501667" lon="12.76440000">
+  <ele>486</ele>
+  <time>2018-11-03T16:50:18.127Z</time>
+  <name>Pizzeria Al Castello</name>
+  <desc>Al Castello (Italienisch)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>e4baee0abf071b76609a327a8d8b1b6a</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T16:50:18.128Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T16:50:18.131Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.19443333" lon="13.07316667">
+  <ele>659</ele>
+  <time>2018-11-03T16:53:45.928Z</time>
+  <name>Cafe "Sahneberg"</name>
+  <desc>Cafe "Sahneberg" (Café)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>824ea81e26e1ce0bbba1061b45f56cd0</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T16:53:45.929Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T16:53:45.931Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.23541667" lon="12.95156667">
+  <ele>942</ele>
+  <time>2018-11-03T16:55:55.980Z</time>
+  <name>Schönblick</name>
+  <desc>Schönblick (Gasthaus)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>9dc5655194443845616abcaf112b9c9d</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T16:55:55.982Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T16:55:55.986Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.12953333" lon="12.86428333">
+  <ele>417</ele>
+  <time>2018-11-03T16:59:27.960Z</time>
+  <name>Seeblick</name>
+  <desc>Seeblick (regional, Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>e8079b89d14928d00d653204c60cac32</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T16:59:27.960Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T16:59:27.962Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.33468333" lon="12.76710000">
+  <ele>780</ele>
+  <time>2018-11-03T17:02:46.087Z</time>
+  <name>Bergstüberl Althütte</name>
+  <desc>Bergstüberl Althütte (Bayrisch)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>b5266d6df52e2448052f3e6f4b95be5b</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T17:02:46.088Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T17:02:46.092Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.31528333" lon="12.87165000">
+  <ele>420</ele>
+  <time>2018-11-03T17:04:05.409Z</time>
+  <name>Mühlencafé</name>
+  <desc>Cafe Mühle (Café)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>6476d411f34b033410aba86ab26424df</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T17:04:05.411Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T17:04:05.415Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.38290000" lon="12.78465000">
+  <ele>1034</ele>
+  <time>2018-11-03T17:05:32.763Z</time>
+  <name>Bistro auf dem Cerchov</name>
+  <desc>Bistro Cerchov (Restaurant)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>95c77599756c9555adf86043a0d0d1b2</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T17:05:32.764Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T17:05:32.769Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.12725000" lon="13.11720000">
+  <ele>938</ele>
+  <time>2018-11-03T17:08:28.691Z</time>
+  <name>Seehäusl</name>
+  <desc>Seehäusel (Bayrisch)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>e939656fa5e801604ddc953db74ab49b</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T17:08:28.691Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T17:08:28.695Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.13361667" lon="13.14310000">
+  <time>2018-11-03T17:10:43.190Z</time>
+  <name>Arberalm</name>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>44bcd38f3899e23542d4efe745aae2dc</ql:key>
+   <ql:flags>0</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="49.19315000" lon="13.05405000">
+  <ele>527</ele>
+  <time>2018-11-03T17:17:16.517Z</time>
+  <name>Osser-Eisdiele</name>
+  <desc>Osser Eisdiele (Eiscafé)</desc>
+  <sym>Blue Diamond</sym>
+  <extensions>
+   <ql:key>10662b6283c69e8f918bc46ade94b8e5</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2018-11-03T17:17:16.518Z</ql:time>
+     <ql:comment>Erstversion.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2018-11-03T17:17:16.523Z</ql:time>
+     <ql:comment>Beschreibung geändert</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <extensions>
+  <ql:key>449ebcfe5857ede95505fe3a26e66a7e</ql:key>
+  <ql:sortingRoadbook>0</ql:sortingRoadbook>
+  <ql:sortingFolder>0</ql:sortingFolder>
+  <ql:correlation>1</ql:correlation>
+  <ql:invalidDataOk>0</ql:invalidDataOk>
+ </extensions>
+</gpx>
